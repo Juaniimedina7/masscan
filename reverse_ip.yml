@@ -1,0 +1,10 @@
+settings:
+  name: Reverse IP
+  image: debian
+
+install:
+  - apt-get update
+  - apt-get install -qy dnsutils
+
+reverse_ip:
+  - host ${{IP}}
