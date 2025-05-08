@@ -1,4 +1,4 @@
-google.com
-microsoft.com
-apple.com
-satori.ci
+142.250.79.142 #google
+13.107.246.34 #microsoft
+17.253.144.10 #apple
+3.214.227.203 #satori
